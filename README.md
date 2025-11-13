@@ -1,5 +1,5 @@
 # stem-platform-ver1
-pbl project
+
 This project is a modern, full-stack web application built using TypeScript, Node.js, and React. It leverages Express as the backend server framework and Vite as the build tool for optimized, fast development and production builds. The frontend is developed with React 18 and styled using Tailwind CSS, incorporating Radix UI components for accessible and customizable UI elements. It also integrates React Three Fiber for 3D rendering support and Drizzle ORM for seamless database management.
 
 Features
