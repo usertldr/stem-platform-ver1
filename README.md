@@ -35,3 +35,5 @@ Optimize backend performance with middleware enhancements like compression and c
 Elevate frontend accessibility compliance and SEO for better usability and discoverability.
 
 Consider scalable frontend architecture with micro frontends or module federation if the project scales.
+
+Link for demo : https://49a0c5e3-d2ac-4d04-bb0f-808a5b8423d9-00-a7jqg9wgi0j7.janeway.replit.dev
